@@ -1,5 +1,5 @@
 from roboflow import Roboflow
-rf = Roboflow(api_key="nVylWKmHkJCkIKm4GEd7")
+rf = Roboflow(api_key="API")
 project = rf.workspace().project("malvas")
 model = project.version(5).model
 
