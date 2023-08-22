@@ -8,7 +8,7 @@ import os
 import supervision as sv
 
 INFERENCE_ENDPOINT = "https://infer.roboflow.com"
-API_KEY = "nVylWKmHkJCkIKm4GEd7"
+API_KEY = "-"
 VIDEO = "video1.mp4"
 
 prompts = [
