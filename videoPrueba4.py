@@ -3,7 +3,7 @@ from roboflow import Roboflow
 
 # Resto de tu código de inicialización de Roboflow
 # Initialize Roboflow instance and access project and model as before
-rf = Roboflow(api_key="nVylWKmHkJCkIKm4GEd7")
+rf = Roboflow(api_key="---")
 project = rf.workspace().project("malvas")
 model = project.version(5).model
 
